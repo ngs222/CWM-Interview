@@ -1,0 +1,53 @@
+SPY Annual Return: 
+Date
+2017-12-31    0.217054
+2018-12-31   -0.045690
+2019-12-31    0.312239
+2020-12-31    0.183316
+2021-12-31    0.290540
+Freq: A-DEC, Name: Adj Close, dtype: float64
+
+XLV Annual Return: 
+Date
+2017-12-31    0.217729
+2018-12-31    0.062800
+2019-12-31    0.204518
+2020-12-31    0.132952
+2021-12-31    0.265753
+Freq: A-DEC, Name: Adj Close, dtype: float64
+
+TLT Annual Return: 
+Date
+2017-12-31    0.091826
+2018-12-31   -0.016119
+2019-12-31    0.141184
+2020-12-31    0.181523
+2021-12-31   -0.047858
+Freq: A-DEC, Name: Adj Close, dtype: float64
+
+BIL Annual Return: 
+Date
+2017-12-31    0.006891
+2018-12-31    0.017373
+2019-12-31    0.020319
+2020-12-31    0.003986
+2021-12-31   -0.000983
+Freq: A-DEC, Name: Adj Close, dtype: float64
+
+DBC Annual Return: 
+Date
+2017-12-31    0.048611
+2018-12-31   -0.116303
+2019-12-31    0.118392
+2020-12-31   -0.078370
+2021-12-31    0.420408
+Freq: A-DEC, Name: Adj Close, dtype: float64
+
+MUB Annual Return: 
+Date
+2017-12-31    0.047222
+2018-12-31    0.009286
+2019-12-31    0.070553
+2020-12-31    0.051210
+2021-12-31    0.010958
+Freq: A-DEC, Name: Adj Close, dtype: float64

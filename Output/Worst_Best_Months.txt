@@ -1,0 +1,13 @@
+SPY Worst Month: 2020-03-31 : -0.124871
+XLV Worst Month: 2018-12-31 : -0.093536
+TLT Worst Month: 2021-02-28 : -0.05733
+BIL Worst Month: 2021-06-30 : -0.000219
+DBC Worst Month: 2020-03-31 : -0.173402
+MUB Worst Month: 2020-03-31 : -0.029807
+
+SPY Best Month: 2020-04-30 : 0.126983
+XLV Best Month: 2020-04-30 : 0.125875
+TLT Best Month: 2019-08-31 : 0.110491
+BIL Best Month: 2019-05-31 : 0.002122
+DBC Best Month: 2020-11-30 : 0.101976
+MUB Best Month: 2020-05-31 : 0.037654

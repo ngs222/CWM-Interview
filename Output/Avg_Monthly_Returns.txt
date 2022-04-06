@@ -1,0 +1,6 @@
+SPY Average Monthly Return: 0.015148
+XLV Average Monthly Return: 0.014369
+TLT Average Monthly Return: 0.005929
+BIL Average Monthly Return: 0.000787
+DBC Average Monthly Return: 0.00641
+MUB Average Monthly Return: 0.003125
